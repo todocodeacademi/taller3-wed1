@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    margin-right: 25px;
+}
+.Barra{
+    display: flex;
+    justify-content: center;
+    margin-top: -50%;
+    
+    
+}
+.barra-field{
+    display: flex;
+    background-color: white;
+    width: 70%;
+    align-items: center;
+    padding: 20px;
+}
+
+.panel{
+    border: 1px solid #ccc;
+    background-color: white;
+    position: relative;
+    height: 310px;
+    width: 350px;
+    left: 15%;
+    margin-top: 6%;
+}
+
+.price{
+    background-color: #eb4245;
+    color: #fff;
+    padding: 20px 25px;
+    border: none ;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.lugares{
+    display: flex;
+    margin-top: 12%;
+    
+}
+.lugares img{
+    height: 80%;
+    width: 71.6%;
+}
+.lugares p{
+    font-size: 75%;
+    color: #9ed033;
+}
+.lugares button {
+    border: none;
+    padding: 5% 15%;
+    background-color: #9ed033;
+    color: white;
+}
+
